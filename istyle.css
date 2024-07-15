@@ -2,7 +2,7 @@ body{
    background: lightgreen; 
 }
 
- .watch{
+.watch{
     height: 90%;
     max-height: 1200px;
     width: 90%;
@@ -17,7 +17,7 @@ body{
     box-shadow: 0 10px 10px rgba(0,0,0,0.2);
 }
 
- .watch h1{
+.watch h1{
     
     margin-top: 60px;
     font-size: 80px;
@@ -42,4 +42,10 @@ body{
 .controler img:nth-child(2){
 
     width: 75px;
+}
+.git_practice{
+    font-size: 50px;
+    text-transform: uppercase;
+    color: red;
+    background-color: green;
 }
